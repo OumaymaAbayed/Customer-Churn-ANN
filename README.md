@@ -1,5 +1,5 @@
 # 🧠 Artificial Neural Network for Customer Churn Prediction
-##📄 Project Overview
+## 📄 Project Overview
 This project builds and trains an Artificial Neural Network (ANN) to predict customer churn based on the Churn_Modelling.csv dataset.
 It uses deep learning techniques to classify whether a customer is likely to leave a bank based on various features like credit score, geography, gender, age, balance, and more.
 
