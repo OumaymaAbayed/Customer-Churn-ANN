@@ -40,13 +40,17 @@ It uses deep learning techniques to classify whether a customer is likely to lea
     Exited (Target Variable)
 
 ## ⚙️ Project Structure
-'''
-├── scripts
-  ├── ANN.ipynb           # Main Jupyter Notebook containing all code
+```
+├── scripts   
+
+    ├── ANN.ipynb           # Main Jupyter Notebook containing all code
+
 ├── data  
+
   ├── Churn_Modelling.csv # Dataset
+
 ├── README.md           # Project documentation (you are reading it)
-'''
+```
 
 ## 🔥 Main Steps in the Project
 ### Data Preprocessing:
