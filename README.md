@@ -91,8 +91,8 @@ The model achieves a decent performance but could be improved with hyperparamete
 - Handle class imbalance if needed
 - Try different model architectures (e.g., deeper networks, CNNs on structured data)
 
-##✍️ Author
+## ✍️ Author
 Oumayma Abayed
 
-##📜 Credit
+## 📜 Credit
 https://www.kaggle.com/code/youssefmagdy131/ann-implementation
